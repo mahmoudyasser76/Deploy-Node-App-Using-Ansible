@@ -335,6 +335,6 @@ Flask==2.0.1
 
 # Application Screenshot
 
-## ![My Notes](images/My%20notes.png)
+## ![My Notes](Images/My%20notes.png)
 
 ---
